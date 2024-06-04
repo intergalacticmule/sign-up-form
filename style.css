@@ -3,6 +3,11 @@
 	src: url(fonts/Norse-Bold.otf);
 }
 
+@font-face {
+	font-family: norse-bold;
+	src: url(fonts/Raleway-ExtraLight.ttf);
+}
+
 * {
 	box-sizing: border-box;
 	margin: 0;
