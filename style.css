@@ -34,6 +34,10 @@
 	flex-direction: row;
 }
 
+.white {
+	color: white;
+}
+
 #container-main {
 	min-height: 100vh;
 }
@@ -51,7 +55,6 @@
 #container-logo {
 	font-family: norse-bold;
 	font-size: 6em;
-	color: white;
 	height: 15%;
 	max-height: 200px;
 	position: relative;
