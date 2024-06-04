@@ -17,6 +17,14 @@
 }
 
 #container-main {
+	min-height: 100vh;
+}
+
+#container-left {
+	background-image: url("images/img.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	max-width: 40rem;
 	height: 100vh;
-	width: 100vw;
 }
