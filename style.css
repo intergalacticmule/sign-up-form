@@ -79,3 +79,8 @@
 a:visited {
 	color: white;
 }
+
+#container-top,
+#container-bottom {
+	height: 35%;
+}
