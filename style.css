@@ -94,7 +94,7 @@ a:visited {
 }
 
 #container-top:first-child {
-	margin: 7em 0 0 2em;
+	padding: 7em 0 0 2em;
 }
 
 #container-top {
@@ -103,4 +103,5 @@ a:visited {
 		"Lucida Sans", Arial, sans-serif;
 	font-weight: bold;
 	font-size: 1.4em;
+	background-color: aliceblue;
 }
